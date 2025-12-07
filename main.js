@@ -1,9 +1,5 @@
-// main.js - loads sections.json and section files dynamically
-const COURSE_TITLE = "Grammaire progressive du Français"; // change here to update title
-
-// ===== VERSION =====
-const APP_VERSION = "1.0.006"; // <-- меняй здесь номер версии
-// ====================
+const COURSE_TITLE = "Grammaire progressive du Français";
+const APP_VERSION = "1.0.007"; // Updated version
 
 async function loadJSON(url) {
   const res = await fetch(url);
@@ -34,125 +30,90 @@ function renderSectionCard(s) {
   return col;
 }
 
-/**
- * Создает DOM-элемент для одного вопроса
- * @param {Object} q - Объект вопроса { id, text, hint, answer, answer_b64 }
- * @returns {HTMLElement} - Секция с вопросом и элементами управления
- */
+// ==== Create question block ====
 function createQuestionElement(q) {
-  // Создаем основную секцию для вопроса
   const section = document.createElement("section");
   section.className = "mb-4 position-relative";
-  section.setAttribute("data-id", q.id);
+  section.dataset.id = q.id;
 
-  // === ШАПКА ВОПРОСА ===
-  // Создаем header с номером вопроса и кнопкой подсказки
   const header = document.createElement("div");
   header.className = "d-flex justify-content-between align-items-center";
 
-  // Заголовок с номером вопроса
   const h2 = document.createElement("h2");
   h2.textContent = `Питання ${q.id}`;
 
-  // Кнопка для показа подсказки
   const hintBtn = document.createElement("button");
   hintBtn.className = "btn btn-sm btn-outline-info";
-  hintBtn.type = "button";
   hintBtn.innerHTML = '<i class="bi bi-info-circle"></i> Підказка';
 
-  // Добавляем элементы в шапку
   header.append(h2, hintBtn);
 
-  // === ТЕКСТ ВОПРОСА === //
   const label = document.createElement("label");
   label.htmlFor = `q_${q.id}`;
   label.className = "form-label mt-2";
   label.textContent = q.text;
 
-  // === ПОЛЕ ВВОДА С БЕЙДЖЕМ ===
-  // Wrapper для позиционирования бейджа относительно input
-  const inputWrapper = document.createElement("div");
-  inputWrapper.className = "position-relative d-flex align-items-center";
-  inputWrapper.style.maxWidth = "400px"; // Increased width
+  const wrapper = document.createElement("div");
+  wrapper.className = "position-relative d-flex align-items-center";
+  wrapper.style.maxWidth = "400px";
 
-  // Поле ввода ответа
   const input = document.createElement("input");
   input.type = "text";
   input.id = `q_${q.id}`;
   input.className = "form-control";
-  input.style.paddingRight = "60px"; // More padding for longer badges
-  input.style.width = "100%";
+  input.style.paddingRight = "60px";
 
-  // Бейдж для отображения результата (галочка/крестик)
   const badge = document.createElement("span");
   badge.id = `badge_${q.id}`;
   badge.className = "badge position-absolute answer-badge";
   badge.style.fontSize = "1rem";
-  badge.style.display = "none"; // Скрыт по умолчанию
-  badge.style.right = "10px"; // Explicit positioning
-  badge.style.whiteSpace = "nowrap"; // Prevent badge text wrapping
+  badge.style.display = "none";
+  badge.style.right = "10px";
 
-  // Добавляем input и badge в wrapper
-  inputWrapper.appendChild(input);
-
-  // === БЛОК ПОДСКАЗКИ ===
-  const hintBox = document.createElement("div");
-  hintBox.className = "alert alert-info mt-2";
-  hintBox.style.display = "none"; // Скрыт по умолчанию
-  hintBox.textContent = q.hint;
-
-  // === КНОПКА ПРОВЕРКИ ===
   const checkBtn = document.createElement("button");
-  checkBtn.type = "button";
-  checkBtn.className = "btn btn-sm btn-primary mt-2";
+  checkBtn.className = "btn btn-sm btn-primary ms-2";
   checkBtn.textContent = "Check";
 
-  inputWrapper.appendChild(checkBtn);
-  inputWrapper.appendChild(badge);
+  const hintBox = document.createElement("div");
+  hintBox.className = "alert alert-info mt-2";
+  hintBox.style.display = "none";
+  hintBox.textContent = q.hint;
 
-  // === ТЕКСТ РЕЗУЛЬТАТА ===
-  // Элемент для отображения "Правильно!" или "Неправильно!"
-  const resultText = document.createElement("p");
-  resultText.className = "result-text mt-2";
-  resultText.role = "status";
-  resultText.setAttribute("aria-live", "polite"); // Для screen readers
-  resultText.style.fontWeight = "bold";
-
-  inputWrapper.appendChild(resultText);
-
-  hintBtn.addEventListener("click", () => {
+  hintBtn.onclick = () => {
     hintBox.style.display = hintBox.style.display === "none" ? "block" : "none";
-  });
+  };
 
-  // === ОБРАБОТЧИК: Проверка ответа ===
-  checkBtn.addEventListener("click", () => {
-    const userInput = input.value;
-    // Получаем правильный ответ (либо из answer, либо декодируем из answer_b64)
+  checkBtn.onclick = () => {
+    const user = input.value;
+
     const expected = q.answer || decodeBase64(q.answer_b64 || "");
-    // Проверяем ответ с нормализацией
-    const result = checkAnswer(expected, userInput);
 
-    if (result) {
-      // === ПРАВИЛЬНЫЙ ОТВЕТ ===
-      // Добавляем зеленую обводку к input
+    const ok = checkAnswer(expected, user);
+
+    if (ok) {
       input.classList.add("is-valid");
       input.classList.remove("is-invalid");
+      // badge.textContent = "✔";
+      // badge.className = "badge bg-success position-absolute answer-badge";
     } else {
-      // === НЕПРАВИЛЬНЫЙ ОТВЕТ ===
-      // Добавляем красную обводку к input
       input.classList.add("is-invalid");
       input.classList.remove("is-valid");
+      // badge.textContent = "✘";
+      // badge.className = "badge bg-danger position-absolute answer-badge";
     }
 
+    badge.style.display = "inline-block";
     updateProgress();
     updateCorrectCountFromInputs();
-  });
+  };
 
-  // Собираем все элементы в секцию
-  section.append(header, label, inputWrapper, hintBox);
+  wrapper.append(input, checkBtn, badge);
+
+  section.append(header, label, wrapper, hintBox);
   return section;
 }
 
+// === Base64 decode ===
 function decodeBase64(s) {
   try {
     return atob(s);
@@ -165,28 +126,16 @@ function showQuiz(data) {
   document.getElementById("landing").classList.add("hidden");
   document.getElementById("quizArea").classList.remove("hidden");
   document.getElementById("sectionTitle").textContent = data.title || "";
+
   const container = document.getElementById("questionsContainer");
   container.innerHTML = "";
   data.questions.forEach((q) =>
     container.appendChild(createQuestionElement(q))
   );
+
   updateProgress();
   updateCorrectCount(0, data.questions.length);
 
-  document.getElementById("checkBtn").onclick = () => {
-    const r = checkAnswers(data);
-    displayResult(r);
-    updateCorrectCount(r.correct, r.total);
-  };
-  document.getElementById("resetBtn").onclick = () => {
-    document.querySelectorAll("#questionsContainer input").forEach((i) => {
-      i.value = "";
-      i.classList.remove("is-valid", "is-invalid");
-    });
-    document.getElementById("result").innerHTML = "";
-    updateProgress();
-    updateCorrectCount(0, data.questions.length);
-  };
   document.getElementById("backBtn").onclick = () => {
     document.getElementById("quizArea").classList.add("hidden");
     document.getElementById("landing").classList.remove("hidden");
@@ -194,119 +143,46 @@ function showQuiz(data) {
   };
 }
 
-function checkAnswers(data) {
-  let correct = 0;
-  const feedback = [];
-
-  data.questions.forEach((q) => {
-    const input = document.getElementById(`q_${q.id}`);
-    const badge = document.getElementById(`badge_${q.id}`);
-    const user = (input?.value || "").trim();
-    const expected = q.answer || decodeBase64(q.answer_b64 || "");
-    const ok = user === expected;
-
-    console.log(ok);
-
-    if (ok) {
-      input.classList.add("is-valid");
-      input.classList.remove("is-invalid");
-
-      badge.textContent = "✔";
-      badge.className = "badge bg-success position-absolute answer-badge";
-      badge.style.display = "inline-block";
-    } else {
-      input.classList.add("is-invalid");
-      input.classList.remove("is-valid");
-
-      badge.textContent = "✘";
-      badge.className = "badge bg-danger position-absolute answer-badge";
-      badge.style.display = "inline-block";
-    }
-
-    feedback.push({ id: q.id, ok, user, expected });
-    if (ok) correct++;
-  });
-
-  return { correct, total: data.questions.length, feedback };
-}
-
-// показываем результат
-function displayResult({ correct, total, feedback }) {
-  const result = document.getElementById("result");
-  result.innerHTML = `<p>Правильних відповідей: ${correct} з ${total}.</p>`;
-  const list = document.createElement("ul");
-  list.className = "list-group";
-  feedback.forEach((f) => {
-    const li = document.createElement("li");
-    li.className = "list-group-item";
-    li.textContent = `Питання ${f.id}: ${f.ok ? "✓" : "✗"} (Ваша відповідь: "${
-      f.user
-    }", Очікувалося: "${f.expected}")`;
-    list.append(li);
-  });
-  result.append(list);
-}
-
-// обновление прогресса заполненности
+// === Progress ===
 function updateProgress() {
-  const inputs = Array.from(
-    document.querySelectorAll("#questionsContainer input")
-  );
-  const filled = inputs.filter((i) => i.value.trim() !== "").length;
+  const inputs = [...document.querySelectorAll("#questionsContainer input")];
+  const filled = inputs.filter((i) => i.value.trim()).length;
   const total = inputs.length;
-  const pct = total === 0 ? 0 : Math.round((filled / total) * 100);
+  const pct = total ? Math.round((filled / total) * 100) : 0;
 
-  const progressText = document.getElementById("progressText");
-  if (progressText) progressText.textContent = `Виконано ${filled} з ${total}`;
+  document.getElementById(
+    "progressText"
+  ).textContent = `Виконано ${filled} з ${total}`;
 
   const bar = document.getElementById("progressBar");
-  if (bar) {
-    bar.style.width = pct + "%";
-    bar.textContent = pct + "%";
-    bar.setAttribute("aria-valuenow", String(pct));
-  }
+  bar.style.width = pct + "%";
+  bar.textContent = pct + "%";
 }
 
 function updateCorrectCountFromInputs() {
-  const inputs = Array.from(
-    document.querySelectorAll("#questionsContainer input")
-  );
-  const correctCount = inputs.filter((i) =>
-    i.classList.contains("is-valid")
-  ).length;
-  const total = inputs.length;
-
-  updateCorrectCount(correctCount, total);
+  const inputs = [...document.querySelectorAll("#questionsContainer input")];
+  const correct = inputs.filter((i) => i.classList.contains("is-valid")).length;
+  updateCorrectCount(correct, inputs.length);
 }
 
-// новый счётчик правильных ответов (визуальный)
 function updateCorrectCount(correct, total) {
-  const el = document.getElementById("correctAnswersInfo");
-  if (el) {
-    el.textContent = `Правильних: ${correct} з ${total}`;
-  }
+  document.getElementById(
+    "correctAnswersInfo"
+  ).textContent = `Правильних: ${correct} з ${total}`;
 }
-/**
- * Проверка ответа (строгое сравнение).
- * @param {string} expected
- * @param {string} actual
- * @param {Object} [options]
- * @param {boolean} [options.allowNormalization=false]
- * @returns {boolean}
- */
+
+// === Answer check ===
 export function checkAnswer(
   expected,
   actual,
   options = { allowNormalization: true }
 ) {
-  const removeDiacritics = (str) => {
-    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-  };
+  const removeDiacritics = (str) =>
+    str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
   if (options.allowNormalization) {
-    const normalizedExpected = removeDiacritics(expected.trim().toLowerCase());
-    const normalizedActual = removeDiacritics(actual.trim().toLowerCase());
-    return normalizedExpected === normalizedActual;
+    expected = removeDiacritics(expected.trim().toLowerCase());
+    actual = removeDiacritics(actual.trim().toLowerCase());
   }
 
   return expected === actual;
@@ -317,6 +193,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   try {
     const sectionsData = await loadJSON("./data/sections.json");
     setCourseTitle(sectionsData.courseTitle || COURSE_TITLE);
+
     const sel = document.getElementById("sectionSelector");
     const grid = document.getElementById("sectionsGrid");
 
@@ -325,28 +202,21 @@ document.addEventListener("DOMContentLoaded", async () => {
       opt.value = s.file;
       opt.textContent = s.title;
       sel.appendChild(opt);
+
       grid.appendChild(renderSectionCard(s));
     });
 
-    sel.addEventListener("change", (e) => {
-      const file = e.target.value;
-      if (file) loadJSON(file).then((d) => showQuiz(d));
-    });
+    sel.onchange = (e) => {
+      if (e.target.value) loadJSON(e.target.value).then(showQuiz);
+    };
 
-    // delegate open buttons in section cards
-    grid.addEventListener("click", (e) => {
+    grid.onclick = (e) => {
       const btn = e.target.closest(".select-btn");
-      if (btn) {
-        const file = btn.getAttribute("data-file");
-        if (file) loadJSON(file).then((d) => showQuiz(d));
-      }
-    });
+      if (btn) loadJSON(btn.dataset.file).then(showQuiz);
+    };
 
-    // ===== VERSION IN FOOTER =====
     document.getElementById("appVersion").textContent = "v" + APP_VERSION;
-    // =============================
   } catch (err) {
-    console.error(err);
     alert("Помилка під час завантаження списку розділів: " + err.message);
   }
 });

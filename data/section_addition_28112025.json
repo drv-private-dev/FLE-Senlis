@@ -1,16 +1,16 @@
 {
-  "title": "Vacances, boisson, vêtements — T2-C READY",
+  "title": "Vacances, boisson, vêtements ... ",
   "questions": [
     {
       "id": 1,
       "text": "je ___ (voir)",
-      "answer_b64": "vois",
+      "answer": "vois",
       "hint": "Встав правильну форму дієслова voir. \"я бачу\": “je vois” [жьо вуа́]\nПереклад речення: я бачу."
     },
     {
       "id": 2,
       "text": "tu ___ (croire)",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"ти віриш\": “tu crois” [тю круа́]\nПереклад речення: ти віриш."
     },
     {

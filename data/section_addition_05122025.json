@@ -1,0 +1,773 @@
+{
+  "title": "Habitudes quotidiennes – Verbes du cours (Partie 1)",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Le matin, je ___ (prendre) du café.",
+      "answer": "prends",
+      "hint": "Встав правильну форму дієслова prendre. \"я беру/вживаю\": “je prends” [жьо прã]\nПереклад речення: Вранці я п’ю каву."
+    },
+    {
+      "id": 2,
+      "text": "Nous ___ (prendre) le petit déjeuner ensemble.",
+      "answer": "prenons",
+      "hint": "Встав правильну форму дієслова prendre. \"ми беремо/снідаємо\": “nous prenons” [ну прено̃]\nПереклад речення: Ми снідаємо разом."
+    },
+    {
+      "id": 3,
+      "text": "Tu ___ (prendre) du lait ou du thé le matin ?",
+      "answer": "prends",
+      "hint": "Встав правильну форму дієслова prendre. \"ти береш\": “tu prends” [тю прã]\nПереклад речення: Ти береш молоко чи чай вранці?"
+    },
+    {
+      "id": 4,
+      "text": "Les enfants ___ (prendre) leur repas à la cantine.",
+      "answer": "prennent",
+      "hint": "Встав правильну форму дієслова prendre. \"вони беруть/споживають\": “ils prennent” [іль пренн]\nПереклад речення: Діти їдять у їдальні."
+    },
+    {
+      "id": 5,
+      "text": "Au restaurant, vous ___ (boire) de l’eau ?",
+      "answer": "buvez",
+      "hint": "Встав правильну форму дієслова boire. \"ви п’єте\": “vous buvez” [ву бюве]\nПереклад речення: У ресторані ви п'єте воду?"
+    },
+    {
+      "id": 6,
+      "text": "Je ___ (boire) un jus d’orange le matin.",
+      "answer": "bois",
+      "hint": "Встав правильну форму дієслова boire. \"я п’ю\": “je bois” [жьо буа]\nПереклад речення: Я п’ю апельсиновий сік вранці."
+    },
+    {
+      "id": 7,
+      "text": "Ils ___ (boire) du lait ou de l’eau ?",
+      "answer": "boivent",
+      "hint": "Встав правильну форму дієслова boire. \"вони п’ють\": “ils boivent” [іль буав]\nПереклад речення: Вони п’ють молоко чи воду?"
+    },
+    {
+      "id": 8,
+      "text": "Tu ___ (boire) du thé le soir ?",
+      "answer": "bois",
+      "hint": "Встав правильну форму дієслова boire. \"ти п’єш\": “tu bois” [тю буа]\nПереклад речення: Ти п’єш чай ввечері?"
+    },
+    {
+      "id": 9,
+      "text": "Les enfants ___ (manger) à midi.",
+      "answer": "mangent",
+      "hint": "Встав правильну форму дієслова manger. \"вони їдять\": “ils mangent” [іль манж]\nПереклад речення: Діти їдять опівдні."
+    },
+    {
+      "id": 10,
+      "text": "Je ___ (manger) des tartines au petit déjeuner.",
+      "answer": "mange",
+      "hint": "Встав правильну форму дієслова manger. \"я їм\": “je mange” [жьо манж]\nПереклад речення: Я їм тостики на сніданок."
+    },
+    {
+      "id": 11,
+      "text": "Nous ___ (manger) ensemble le soir.",
+      "answer": "mangeons",
+      "hint": "Встав правильну форму дієслова manger. \"ми їмо\": “nous mangeons” [ну манжо̃]\nПереклад речення: Ми вечеряємо разом."
+    },
+    {
+      "id": 12,
+      "text": "Vous ___ (manger) souvent au restaurant ?",
+      "answer": "mangez",
+      "hint": "Встав правильну форму дієслова manger. \"ви їсте\": “vous mangez” [ву манже]\nПереклад речення: Ви часто їсте в ресторані?"
+    },
+    {
+      "id": 13,
+      "text": "Tu ___ (regarder) la télévision le soir ?",
+      "answer": "regardes",
+      "hint": "Встав правильну форму дієслова regarder. \"ти дивишся\": “tu regardes” [тю рьогард]\nПереклад речення: Ти дивишся телевізор ввечері?"
+    },
+    {
+      "id": 14,
+      "text": "Nous ___ (regarder) rarement la télévision.",
+      "answer": "regardons",
+      "hint": "Встав правильну форму дієслова regarder. \"ми дивимось\": “nous regardons” [ну рьогардо̃]\nПереклад речення: Ми рідко дивимося телевізор."
+    },
+    {
+      "id": 15,
+      "text": "Elle ___ (regarder) un film.",
+      "answer": "regarde",
+      "hint": "Встав правильну форму дієслова regarder. \"вона дивиться\": “elle regarde” [ель рьогард]\nПереклад речення: Вона дивиться фільм."
+    },
+    {
+      "id": 16,
+      "text": "Ils ___ (regarder) un match de football.",
+      "answer": "regardent",
+      "hint": "Встав правильну форму дієслова regarder. \"вони дивляться\": “ils regardent” [іль рьогард]\nПереклад речення: Вони дивляться футбольний матч."
+    },
+    {
+      "id": 17,
+      "text": "Nous ___ (acheter) un journal tous les jours.",
+      "answer": "achetons",
+      "hint": "Встав правильну форму дієслова acheter. \"ми купуємо\": “nous achetons” [ну ашето̃]\nПереклад речення: Ми купуємо газету щодня."
+    },
+    {
+      "id": 18,
+      "text": "Vous ___ (acheter) des magazines ?",
+      "answer": "achetez",
+      "hint": "Встав правильну форму дієслова acheter. \"ви купуєте\": “vous achetez” [ву ашете]\nПереклад речення: Ви купуєте журнали?"
+    },
+    {
+      "id": 19,
+      "text": "Elle ___ (acheter) du pain chaque matin.",
+      "answer": "achète",
+      "hint": "Встав правильну форму дієслова acheter. \"вона купує\": “elle achète” [ель ашет]\nПереклад речення: Вона купує хліб щоранку."
+    },
+    {
+      "id": 20,
+      "text": "Ils ___ (acheter) des fruits au marché.",
+      "answer": "achètent",
+      "hint": "Встав правильну форму дієслова acheter. \"вони купують\": “ils achètent” [іль ашет]\nПереклад речення: Вони купують фрукти на ринку."
+    },
+    {
+      "id": 21,
+      "text": "Tu ___ (pratiquer) un sport ?",
+      "answer": "pratiques",
+      "hint": "Встав правильну форму дієслова pratiquer. \"ти займаєшся\": “tu pratiques” [тю пратік]\nПереклад речення: Ти займаєшся спортом?"
+    },
+    {
+      "id": 22,
+      "text": "Nous ___ (pratiquer) le tennis le dimanche.",
+      "answer": "pratiquons",
+      "hint": "Встав правильну форму дієслова pratiquer. \"ми займаємось\": “nous pratiquons” [ну пратіко̃]\nПереклад речення: Ми граємо в теніс у неділю."
+    },
+    {
+      "id": 23,
+      "text": "Ils ___ (pratiquer) la natation.",
+      "answer": "pratiquent",
+      "hint": "Встав правильну форму дієслова pratiquer. \"вони займаються\": “ils pratiquent” [іль пратік]\nПереклад речення: Вони займаються плаванням."
+    },
+    {
+      "id": 24,
+      "text": "Je ___ (pratiquer) un peu de sport.",
+      "answer": "pratique",
+      "hint": "Встав правильну форму дієслова pratiquer. \"я займаюсь\": “je pratique” [жьо пратік]\nПереклад речення: Я трохи займаюсь спортом."
+    },
+    {
+      "id": 25,
+      "text": "Les enfants ___ (lire) des livres le soir.",
+      "answer": "lisent",
+      "hint": "Встав правильну форму дієслова lire. \"вони читають\": “ils lisent” [іль ліз]\nПереклад речення: Діти читають книги ввечері."
+    },
+    {
+      "id": 26,
+      "text": "Je ___ (lire) un journal le matin.",
+      "answer": "lis",
+      "hint": "Встав правильну форму дієслова lire. \"я читаю\": “je lis” [жьо лі]\nПереклад речення: Я читаю газету вранці."
+    },
+    {
+      "id": 27,
+      "text": "Tu ___ (lire) beaucoup ?",
+      "answer": "lis",
+      "hint": "Встав правильну форму дієслова lire. \"ти читаєш\": “tu lis” [тю лі]\nПереклад речення: Ти багато читаєш?"
+    },
+    {
+      "id": 28,
+      "text": "Nous ___ (lire) des magazines le week-end.",
+      "answer": "lisons",
+      "hint": "Встав правильну форму дієслова lire. \"ми читаємо\": “nous lisons” [ну лізо̃]\nПереклад речення: Ми читаємо журнали на вихідних."
+    },
+    {
+      "id": 29,
+      "text": "Vous ___ (connaître) vos voisins ?",
+      "answer": "connaissez",
+      "hint": "Встав правильну форму дієслова connaître. \"ви знаєте\": “vous connaissez” [ву коносе]\nПереклад речення: Ви знаєте своїх сусідів?"
+    },
+    {
+      "id": 30,
+      "text": "Nous ___ (connaître) bien notre quartier.",
+      "answer": "connaissons",
+      "hint": "Встав правильну форму дієслова connaître. \"ми знаємо\": “nous connaissons” [ну коносо̃]\nПереклад речення: Ми добре знаємо наш район."
+    },
+    {
+      "id": 31,
+      "text": "Ils ne ___ (connaître) personne.",
+      "answer": "connaissent",
+      "hint": "Встав правильну форму дієслова connaître. \"вони знають\": “ils connaissent” [іль конос]\nПереклад речення: Вони нікого не знають."
+    },
+    {
+      "id": 32,
+      "text": "Je ___ (connaître) cette personne.",
+      "answer": "connais",
+      "hint": "Встав правильну форму дієслова connaître. \"я знаю\": “je connais” [жьо коне]\nПереклад речення: Я знаю цю людину."
+    },
+{
+      "id": 33,
+      "text": "Je ___ (travailler) huit heures par jour.",
+      "answer": "travaille",
+      "hint": "Встав правильну форму дієслова travailler. \"я працюю\": “je travaille” [жьо травай]\nПереклад речення: Я працюю вісім годин на день."
+    },
+    {
+      "id": 34,
+      "text": "Nous ___ (travailler) ensemble au bureau.",
+      "answer": "travaillons",
+      "hint": "Встав правильну форму дієслова travailler. \"ми працюємо\": “nous travaillons” [ну травайо̃]\nПереклад речення: Ми працюємо разом в офісі."
+    },
+    {
+      "id": 35,
+      "text": "Vous ___ (travailler) le week-end ?",
+      "answer": "travaillez",
+      "hint": "Встав правильну форму дієслова travailler. \"ви працюєте\": “vous travaillez” [ву травайе]\nПереклад речення: Ви працюєте на вихідних?"
+    },
+    {
+      "id": 36,
+      "text": "Ils ___ (travailler) à la maison.",
+      "answer": "travaillent",
+      "hint": "Встав правильну форму дієслова travailler. \"вони працюють\": “ils travaillent” [іль травай]\nПереклад речення: Вони працюють удома."
+    },
+    {
+      "id": 37,
+      "text": "Tu ___ (faire) du sport le soir ?",
+      "answer": "fais",
+      "hint": "Встав правильну форму дієслова faire. \"ти робиш/займаєшся\": “tu fais” [тю фе]\nПереклад речення: Ти займаєшся спортом ввечері?"
+    },
+    {
+      "id": 38,
+      "text": "Je ___ (faire) la cuisine le week-end.",
+      "answer": "fais",
+      "hint": "Встав правильну форму дієслова faire. \"я роблю/готую\": “je fais” [жьо фе]\nПереклад речення: Я готую на вихідних."
+    },
+    {
+      "id": 39,
+      "text": "Nous ___ (faire) une promenade après le dîner.",
+      "answer": "faisons",
+      "hint": "Встав правильну форму дієслова faire. \"ми робимо\": “nous faisons” [ну фёзо̃]\nПереклад речення: Ми гуляємо після вечері."
+    },
+    {
+      "id": 40,
+      "text": "Ils ___ (faire) du vélo en été.",
+      "answer": "font",
+      "hint": "Встав правильну форму дієслова faire. \"вони роблять\": “ils font” [іль фо̃]\nПереклад речення: Вони катаються на велосипеді влітку."
+    },
+    {
+      "id": 41,
+      "text": "Je ___ (aller) au marché le samedi.",
+      "answer": "vais",
+      "hint": "Встав правильну форму дієслова aller. \"я йду/їду\": “je vais” [жьо ве]\nПереклад речення: Я ходжу на ринок у суботу."
+    },
+    {
+      "id": 42,
+      "text": "Nous ___ (aller) au restaurant ce soir.",
+      "answer": "allons",
+      "hint": "Встав правильну форму дієслова aller. \"ми йдемо\": “nous allons” [ну зало̃]\nПереклад речення: Ми йдемо в ресторан сьогодні ввечері."
+    },
+    {
+      "id": 43,
+      "text": "Vous ___ (aller) en vacances en juillet ?",
+      "answer": "allez",
+      "hint": "Встав правильну форму дієслова aller. \"ви їдете\": “vous allez” [ву зале]\nПереклад речення: Ви їдете у відпустку в липні?"
+    },
+    {
+      "id": 44,
+      "text": "Ils ___ (aller) à l’école le matin.",
+      "answer": "vont",
+      "hint": "Встав правильну форму дієслова aller. \"вони йдуть\": “ils vont” [іль во̃]\nПереклад речення: Вони йдуть до школи вранці."
+    },
+    {
+      "id": 45,
+      "text": "Tu ___ (prendre) du pain avec ton repas ?",
+      "answer": "prends",
+      "hint": "Встав правильну форму дієслова prendre. \"ти береш\": “tu prends” [тю прã]\nПереклад речення: Ти береш хліб до своєї страви?"
+    },
+    {
+      "id": 46,
+      "text": "Elle ___ (prendre) un café après le déjeuner.",
+      "answer": "prend",
+      "hint": "Встав правильну форму дієслова prendre. \"вона бере\": “elle prend” [ель прã]\nПереклад речення: Вона бере каву після обіду."
+    },
+    {
+      "id": 47,
+      "text": "Vous ___ (prendre) un dessert ?",
+      "answer": "prenez",
+      "hint": "Встав правильну форму дієслова prendre. \"ви берете\": “vous prenez” [ву прене]\nПереклад речення: Ви берете десерт?"
+    },
+    {
+      "id": 48,
+      "text": "Ils ___ (prendre) le dîner à 19h.",
+      "answer": "prennent",
+      "hint": "Встав правильну форму дієслова prendre. \"вони беруть\": “ils prennent” [іль пренн]\nПереклад речення: Вони вечеряють о 19-й годині."
+    },
+    {
+      "id": 49,
+      "text": "Je ___ (boire) de l’eau minérale.",
+      "answer": "bois",
+      "hint": "Встав правильну форму дієслова boire. \"я п’ю\": “je bois” [жьо буа]\nПереклад речення: Я п’ю мінеральну воду."
+    },
+    {
+      "id": 50,
+      "text": "Nous ___ (boire) un jus au petit déjeuner.",
+      "answer": "buvons",
+      "hint": "Встав правильну форму дієслова boire. \"ми п’ємо\": “nous buvons” [ну бюво̃]\nПереклад речення: Ми п’ємо сік на сніданок."
+    },
+    {
+      "id": 51,
+      "text": "Tu ___ (boire) du chocolat chaud ?",
+      "answer": "bois",
+      "hint": "Встав правильну форму дієслова boire. \"ти п’єш\": “tu bois” [тю буа]\nПереклад речення: Ти п’єш гарячий шоколад?"
+    },
+    {
+      "id": 52,
+      "text": "Elles ___ (boire) du thé ensemble.",
+      "answer": "boivent",
+      "hint": "Встав правильну форму дієслова boire. \"вони п’ють\": “elles boivent” [ель буав]\nПереклад речення: Вони п’ють чай разом."
+    },
+    {
+      "id": 53,
+      "text": "Vous ___ (manger) des pâtes ce soir ?",
+      "answer": "mangez",
+      "hint": "Встав правильну форму дієслова manger. \"ви їсте\": “vous mangez” [ву манже]\nПереклад речення: Ви їсте макарони сьогодні ввечері?"
+    },
+    {
+      "id": 54,
+      "text": "Il ___ (manger) toujours des fruits.",
+      "answer": "mange",
+      "hint": "Встав правильну форму дієслова manger. \"він їсть\": “il mange” [іль манж]\nПереклад речення: Він завжди їсть фрукти."
+    },
+    {
+      "id": 55,
+      "text": "Nous ___ (manger) dans la cuisine.",
+      "answer": "mangeons",
+      "hint": "Встав правильну форму дієслова manger. \"ми їмо\": “nous mangeons” [ну манжо̃]\nПереклад речення: Ми їмо на кухні."
+    },
+    {
+      "id": 56,
+      "text": "Tu ___ (manger) souvent au travail ?",
+      "answer": "manges",
+      "hint": "Встав правильну форму дієслова manger. \"ти їси\": “tu manges” [тю манж]\nПереклад речення: Ти часто їси на роботі?"
+    },
+    {
+      "id": 57,
+      "text": "Je ___ (regarder) un reportage.",
+      "answer": "regarde",
+      "hint": "Встав правильну форму дієслова regarder. \"я дивлюся\": “je regarde” [жьо рьогард]\nПереклад речення: Я дивлюся репортаж."
+    },
+    {
+      "id": 58,
+      "text": "Vous ___ (regarder) les infos le matin ?",
+      "answer": "regardez",
+      "hint": "Встав правильну форму дієслова regarder. \"ви дивитесь\": “vous regardez” [ву рьогарде]\nПереклад речення: Ви дивитеся новини вранці?"
+    },
+    {
+      "id": 59,
+      "text": "Nous ___ (regarder) souvent des séries.",
+      "answer": "regardons",
+      "hint": "Встав правильну форму дієслова regarder. \"ми дивимось\": “nous regardons” [ну рьогардо̃]\nПереклад речення: Ми часто дивимося серіали."
+    },
+    {
+      "id": 60,
+      "text": "Ils ___ (regarder) beaucoup de films.",
+      "answer": "regardent",
+      "hint": "Встав правильну форму дієслова regarder. \"вони дивляться\": “ils regardent” [іль рьогард]\nПереклад речення: Вони дивляться багато фільмів."
+    },
+    {
+      "id": 61,
+      "text": "Je ___ (acheter) des légumes au supermarché.",
+      "answer": "achète",
+      "hint": "Встав правильну форму дієслова acheter. \"я купую\": “j’achète” [жашет]\nПереклад речення: Я купую овочі в супермаркеті."
+    },
+    {
+      "id": 62,
+      "text": "Nous ___ (acheter) du fromage aujourd’hui.",
+      "answer": "achetons",
+      "hint": "Встав правильну форму дієслова acheter. \"ми купуємо\": “nous achetons” [ну ашето̃]\nПереклад речення: Ми купуємо сир сьогодні."
+    },
+    {
+      "id": 63,
+      "text": "Tu ___ (acheter) un cadeau ?",
+      "answer": "achètes",
+      "hint": "Встав правильну форму дієслова acheter. \"ти купуєш\": “tu achètes” [тю ашет]\nПереклад речення: Ти купуєш подарунок?"
+    },
+    {
+      "id": 64,
+      "text": "Ils ___ (acheter) une nouvelle voiture.",
+      "answer": "achètent",
+      "hint": "Встав правильну форму дієслова acheter. \"вони купують\": “ils achètent” [іль ашет]\nПереклад речення: Вони купують нову машину."
+    },
+    {
+      "id": 65,
+      "text": "Je ___ (pratiquer) le yoga le matin.",
+      "answer": "pratique",
+      "hint": "Встав правильну форму дієслова pratiquer. \"я займаюся\": “je pratique” [жьо пратік]\nПереклад речення: Я займаюся йогою вранці."
+    },
+    {
+      "id": 66,
+      "text": "Ils ___ (pratiquer) le football à l’école.",
+      "answer": "pratiquent",
+      "hint": "Встав правильну форму дієслова pratiquer. \"вони займаються\": “ils pratiquent” [іль пратік]\nПереклад речення: Вони займаються футболом у школі."
+    },
+    {
+      "id": 67,
+      "text": "Vous ___ (pratiquer) un instrument de musique ?",
+      "answer": "pratiquez",
+      "hint": "Встав правильну форму дієслова pratiquer. \"ви займаєтеся\": “vous pratiquez” [ву пратіке]\nПереклад речення: Ви граєте на музичному інструменті?"
+    },
+    {
+      "id": 68,
+      "text": "Nous ___ (pratiquer) souvent la danse.",
+      "answer": "pratiquons",
+      "hint": "Встав правильну форму дієслова pratiquer. \"ми займаємось\": “nous pratiquons” [ну пратіко̃]\nПереклад речення: Ми часто займаємося танцями."
+    },
+    {
+      "id": 69,
+      "text": "Tu ___ (lire) un livre intéressant ?",
+      "answer": "lis",
+      "hint": "Встав правильну форму дієслова lire. \"ти читаєш\": “tu lis” [тю лі]\nПереклад речення: Ти читаєш цікаву книгу?"
+    },
+    {
+      "id": 70,
+      "text": "Elle ___ (lire) un magazine de mode.",
+      "answer": "lit",
+      "hint": "Встав правильну форму дієслова lire. \"вона читає\": “elle lit” [ель лі]\nПереклад речення: Вона читає модний журнал."
+    },
+    {
+      "id": 71,
+      "text": "Nous ___ (lire) un article en classe.",
+      "answer": "lisons",
+      "hint": "Встав правильну форму дієслова lire. \"ми читаємо\": “nous lisons” [ну лізо̃]\nПереклад речення: Ми читаємо статтю в класі."
+    },
+    {
+      "id": 72,
+      "text": "Ils ___ (lire) beaucoup le soir.",
+      "answer": "lisent",
+      "hint": "Встав правильну форму дієслова lire. \"вони читають\": “ils lisent” [іль ліз]\nПереклад речення: Вони багато читають ввечері."
+    },
+    {
+      "id": 73,
+      "text": "Je ___ (connaître) cette ville.",
+      "answer": "connais",
+      "hint": "Встав правильну форму дієслова connaître. \"я знаю\": “je connais” [жьо коне]\nПереклад речення: Я знаю це місто."
+    },
+    {
+      "id": 74,
+      "text": "Tu ___ (connaître) mes parents ?",
+      "answer": "connais",
+      "hint": "Встав правильну форму дієслова connaître. \"ти знаєш\": “tu connais” [тю коне]\nПереклад речення: Ти знаєш моїх батьків?"
+    },
+    {
+      "id": 75,
+      "text": "Nous ___ (connaître) ce café.",
+      "answer": "connaissons",
+      "hint": "Встав правильну форму дієслова connaître. \"ми знаємо\": “nous connaissons” [ну коносо̃]\nПереклад речення: Ми знаємо це кафе."
+    },
+    {
+      "id": 76,
+      "text": "Elles ___ (connaître) bien la région.",
+      "answer": "connaissent",
+      "hint": "Встав правильну форму дієслова connaître. \"вони знають\": “elles connaissent” [ель конос]\nПереклад речення: Вони добре знають цей регіон."
+    },
+    {
+      "id": 77,
+      "text": "Je ___ (travailler) dans une école.",
+      "answer": "travaille",
+      "hint": "Встав правильну форму дієслова travailler. \"я працюю\": “je travaille” [жьо травай]\nПереклад речення: Я працюю в школі."
+    },
+    {
+      "id": 78,
+      "text": "Ils ___ (travailler) dans un restaurant.",
+      "answer": "travaillent",
+      "hint": "Встав правильну форму дієслова travailler. \"вони працюють\": “ils travaillent” [іль травай]\nПереклад речення: Вони працюють у ресторані."
+    },
+    {
+      "id": 79,
+      "text": "Vous ___ (travailler) en France ?",
+      "answer": "travaillez",
+      "hint": "Встав правильну форму дієслова travailler. \"ви працюєте\": “vous travaillez” [ву травайе]\nПереклад речення: Ви працюєте у Франції?"
+    },
+    {
+      "id": 80,
+      "text": "Nous ___ (travailler) beaucoup aujourd’hui.",
+      "answer": "travaillons",
+      "hint": "Встав правильну форму дієслова travailler. \"ми працюємо\": “nous travaillons” [ну травайо̃]\nПереклад речення: Ми сьогодні багато працюємо."
+    },
+    {
+      "id": 81,
+      "text": "Tu ___ (faire) les courses ?",
+      "answer": "fais",
+      "hint": "Встав правильну форму дієслова faire. \"ти робиш\": “tu fais” [тю фе]\nПереклад речення: Ти робиш покупки?"
+    },
+    {
+      "id": 82,
+      "text": "Elles ___ (faire) la vaisselle.",
+      "answer": "font",
+      "hint": "Встав правильну форму дієслова faire. \"вони роблять\": “elles font” [ель фо̃]\nПереклад речення: Вони миють посуд."
+    },
+    {
+      "id": 83,
+      "text": "Nous ___ (faire) du jardinage.",
+      "answer": "faisons",
+      "hint": "Встав правильну форму дієслова faire. \"ми робимо\": “nous faisons” [ну фёзо̃]\nПереклад речення: Ми займаємося садівництвом."
+    },
+    {
+      "id": 84,
+      "text": "Je ___ (faire) mes devoirs le soir.",
+      "answer": "fais",
+      "hint": "Встав правильну форму дієслова faire. \"я роблю\": “je fais” [жьо фе]\nПереклад речення: Я роблю домашнє завдання ввечері."
+    },
+    {
+      "id": 85,
+      "text": "Tu ___ (aller) au cinéma ?",
+      "answer": "vas",
+      "hint": "Встав правильну форму дієслова aller. \"ти йдеш/їдеш\": “tu vas” [тю ва]\nПереклад речення: Ти йдеш у кіно?"
+    },
+    {
+      "id": 86,
+      "text": "Nous ___ (aller) à Paris demain.",
+      "answer": "allons",
+      "hint": "Встав правильну форму дієслова aller. \"ми їдемо\": “nous allons” [ну зало̃]\nПереклад речення: Ми їдемо до Парижа завтра."
+    },
+    {
+      "id": 87,
+      "text": "Ils ___ (aller) au travail le matin.",
+      "answer": "vont",
+      "hint": "Встав правильну форму дієслова aller. \"вони йдуть\": “ils vont” [іль во̃]\nПереклад речення: Вони йдуть на роботу вранці."
+    },
+    {
+      "id": 88,
+      "text": "Vous ___ (aller) à la piscine ?",
+      "answer": "allez",
+      "hint": "Встав правильну форму дієслова aller. \"ви йдете\": “vous allez” [ву зале]\nПереклад речення: Ви йдете в басейн?"
+    },
+    {
+      "id": 89,
+      "text": "Je ___ (prendre) une douche le matin.",
+      "answer": "prends",
+      "hint": "Встав правильну форму дієслова prendre. \"я беру\": “je prends” [жьо прã]\nПереклад речення: Я приймаю душ вранці."
+    },
+    {
+      "id": 90,
+      "text": "Ils ___ (prendre) le bus pour aller au travail.",
+      "answer": "prennent",
+      "hint": "Встав правильну форму дієслова prendre. \"вони беруть\": “ils prennent” [іль пренн]\nПереклад речення: Вони їдуть на роботу автобусом."
+    },
+    {
+      "id": 91,
+      "text": "Vous ___ (prendre) du thé ou du café ?",
+      "answer": "prenez",
+      "hint": "Встав правильну форму дієслова prendre. \"ви берете\": “vous prenez” [ву прене]\nПереклад речення: Ви берете чай чи каву?"
+    },
+    {
+      "id": 92,
+      "text": "Nous ___ (prendre) un verre après le travail.",
+      "answer": "prenons",
+      "hint": "Встав правильну форму дієслова prendre. \"ми беремо\": “nous prenons” [ну прено̃]\nПереклад речення: Ми випиваємо після роботи."
+    },
+    {
+      "id": 93,
+      "text": "Tu ___ (boire) un peu d’eau ?",
+      "answer": "bois",
+      "hint": "Встав правильну форму дієслова boire. \"ти п’єш\": “tu bois” [тю буа]\nПереклад речення: Ти вип'єш трохи води?"
+    },
+    {
+      "id": 94,
+      "text": "Elle ___ (boire) un chocolat chaud le soir.",
+      "answer": "boit",
+      "hint": "Встав правильну форму дієслова boire. \"вона п’є\": “elle boit” [ель буа]\nПереклад речення: Вона п’є гарячий шоколад ввечері."
+    },
+    {
+      "id": 95,
+      "text": "Ils ___ (boire) un jus de pomme.",
+      "answer": "boivent",
+      "hint": "Встав правильну форму дієслова boire. \"вони п’ють\": “ils boivent” [іль буав]\nПереклад речення: Вони п’ють яблучний сік."
+    },
+    {
+      "id": 96,
+      "text": "Nous ___ (boire) du thé ensemble.",
+      "answer": "buvons",
+      "hint": "Встав правильну форму дієслова boire. \"ми п’ємо\": “nous buvons” [ну бюво̃]\nПереклад речення: Ми п’ємо чай разом."
+    },
+    {
+      "id": 97,
+      "text": "Je ___ (manger) une salade au déjeuner.",
+      "answer": "mange",
+      "hint": "Встав правильну форму дієслова manger. \"я їм\": “je mange” [жьо манж]\nПереклад речення: Я їм салат на обід."
+    },
+    {
+      "id": 98,
+      "text": "Tu ___ (manger) souvent des légumes ?",
+      "answer": "manges",
+      "hint": "Встав правильну форму дієслова manger. \"ти їси\": “tu manges” [тю манж]\nПереклад речення: Ти часто їси овочі?"
+    },
+    {
+      "id": 99,
+      "text": "Ils ___ (manger) ensemble chaque soir.",
+      "answer": "mangent",
+      "hint": "Встав правильну форму дієслова manger. \"вони їдять\": “ils mangent” [іль манж]\nПереклад речення: Вони вечеряють разом щовечора."
+    },
+    {
+      "id": 100,
+      "text": "Nous ___ (manger) au restaurant aujourd’hui.",
+      "answer": "mangeons",
+      "hint": "Встав правильну форму дієслова manger. \"ми їмо\": “nous mangeons” [ну манжо̃]\nПереклад речення: Ми їмо сьогодні в ресторані."
+    },
+    {
+      "id": 101,
+      "text": "Je ___ (regarder) les actualités le soir.",
+      "answer": "regarde",
+      "hint": "Встав правильну форму дієслова regarder. \"я дивлюся\": “je regarde” [жьо рьогард]\nПереклад речення: Я дивлюся новини ввечері."
+    },
+    {
+      "id": 102,
+      "text": "Tu ___ (regarder) un dessin animé ?",
+      "answer": "regardes",
+      "hint": "Встав правильну форму дієслова regarder. \"ти дивишся\": “tu regardes” [тю рьогард]\nПереклад речення: Ти дивишся мультфільм?"
+    },
+    {
+      "id": 103,
+      "text": "Elles ___ (regarder) la télévision ensemble.",
+      "answer": "regardent",
+      "hint": "Встав правильну форму дієслова regarder. \"вони дивляться\": “elles regardent” [ель рьогард]\nПереклад речення: Вони дивляться телевізор разом."
+    },
+    {
+      "id": 104,
+      "text": "Vous ___ (regarder) des vidéos sur Internet ?",
+      "answer": "regardez",
+      "hint": "Встав правильну форму дієслова regarder. \"ви дивитеся\": “vous regardez” [ву рьогарде]\nПереклад речення: Ви дивитеся відео в Інтернеті?"
+    },
+    {
+      "id": 105,
+      "text": "Je ___ (acheter) du lait ce matin.",
+      "answer": "achète",
+      "hint": "Встав правильну форму дієслова acheter. \"я купую\": “j’achète” [жашет]\nПереклад речення: Я купую молоко сьогодні зранку."
+    },
+    {
+      "id": 106,
+      "text": "Ils ___ (acheter) des fleurs pour leur mère.",
+      "answer": "achètent",
+      "hint": "Встав правильну форму дієслова acheter. \"вони купують\": “ils achètent” [іль ашет]\nПереклад речення: Вони купують квіти для своєї мами."
+    },
+    {
+      "id": 107,
+      "text": "Tu ___ (acheter) du chocolat ?",
+      "answer": "achètes",
+      "hint": "Встав правильну форму дієслова acheter. \"ти купуєш\": “tu achètes” [тю ашет]\nПереклад речення: Ти купуєш шоколад?"
+    },
+    {
+      "id": 108,
+      "text": "Nous ___ (acheter) des fruits de saison.",
+      "answer": "achetons",
+      "hint": "Встав правильну форму дієслова acheter. \"ми купуємо\": “nous achetons” [ну ашето̃]\nПереклад речення: Ми купуємо сезонні фрукти."
+    },
+    {
+      "id": 109,
+      "text": "Je ___ (pratiquer) la natation deux fois par semaine.",
+      "answer": "pratique",
+      "hint": "Встав правильну форму дієслова pratiquer. \"я займаюсь\": “je pratique” [жьо пратік]\nПереклад речення: Я займаюся плаванням двічі на тиждень."
+    },
+    {
+      "id": 110,
+      "text": "Vous ___ (pratiquer) le tennis ensemble ?",
+      "answer": "pratiquez",
+      "hint": "Встав правильну форму дієслова pratiquer. \"ви займаєтесь\": “vous pratiquez” [ву пратіке]\nПереклад речення: Ви займаєтесь тенісом разом?"
+    },
+    {
+      "id": 111,
+      "text": "Ils ___ (pratiquer) le sport en été.",
+      "answer": "pratiquent",
+      "hint": "Встав правильну форму дієслова pratiquer. \"вони займаються\": “ils pratiquent” [іль пратік]\nПереклад речення: Вони займаються спортом влітку."
+    },
+    {
+      "id": 112,
+      "text": "Nous ___ (pratiquer) la musique à l’école.",
+      "answer": "pratiquons",
+      "hint": "Встав правильну форму дієслова pratiquer. \"ми займаємось\": “nous pratiquons” [ну пратіко̃]\nПереклад речення: Ми займаємось музикою в школі."
+    },
+    {
+      "id": 113,
+      "text": "Je ___ (lire) un roman français.",
+      "answer": "lis",
+      "hint": "Встав правильну форму дієслова lire. \"я читаю\": “je lis” [жьо лі]\nПереклад речення: Я читаю французький роман."
+    },
+    {
+      "id": 114,
+      "text": "Vous ___ (lire) des journaux tous les matins ?",
+      "answer": "lisez",
+      "hint": "Встав правильну форму дієслова lire. \"ви читаєте\": “vous lisez” [ву лізе]\nПереклад речення: Ви читаєте газети щоранку?"
+    },
+    {
+      "id": 115,
+      "text": "Elle ___ (lire) avant de dormir.",
+      "answer": "lit",
+      "hint": "Встав правильну форму дієслова lire. \"вона читає\": “elle lit” [ель лі]\nПереклад речення: Вона читає перед сном."
+    },
+    {
+      "id": 116,
+      "text": "Nous ___ (lire) un petit texte ensemble.",
+      "answer": "lisons",
+      "hint": "Встав правильну форму дієслова lire. \"ми читаємо\": “nous lisons” [ну лізо̃]\nПереклад речення: Ми читаємо маленький текст разом."
+    },
+    {
+      "id": 117,
+      "text": "Tu ___ (connaître) ce restaurant ?",
+      "answer": "connais",
+      "hint": "Встав правильну форму дієслова connaître. \"ти знаєш\": “tu connais” [тю коне]\nПереклад речення: Ти знаєш цей ресторан?"
+    },
+    {
+      "id": 118,
+      "text": "Ils ___ (connaître) tous leurs voisins.",
+      "answer": "connaissent",
+      "hint": "Встав правильну форму дієслова connaître. \"вони знають\": “ils connaissent” [іль конос]\nПереклад речення: Вони знають усіх своїх сусідів."
+    },
+    {
+      "id": 119,
+      "text": "Je ___ (connaître) bien cette rue.",
+      "answer": "connais",
+      "hint": "Встав правильну форму дієслова connaître. \"я знаю\": “je connais” [жьо коне]\nПереклад речення: Я добре знаю цю вулицю."
+    },
+    {
+      "id": 120,
+      "text": "Nous ___ (connaître) leur famille.",
+      "answer": "connaissons",
+      "hint": "Встав правильну форму дієслова connaître. \"ми знаємо\": “nous connaissons” [ну коносо̃]\nПереклад речення: Ми знаємо їхню сім’ю."
+    },
+    {
+      "id": 121,
+      "text": "Je ___ (travailler) dans un bureau moderne.",
+      "answer": "travaille",
+      "hint": "Встав правильну форму дієслова travailler. \"я працюю\": “je travaille” [жьо травай]\nПереклад речення: Я працюю в сучасному офісі."
+    },
+    {
+      "id": 122,
+      "text": "Ils ___ (travailler) dans une grande entreprise.",
+      "answer": "travaillent",
+      "hint": "Встав правильну форму дієслова travailler. \"вони працюють\": “ils travaillent” [іль травай]\nПереклад речення: Вони працюють у великій компанії."
+    },
+    {
+      "id": 123,
+      "text": "Vous ___ (travailler) beaucoup ?",
+      "answer": "travaillez",
+      "hint": "Встав правильну форму дієслова travailler. \"ви працюєте\": “vous travaillez” [ву травайе]\nПереклад речення: Ви багато працюєте?"
+    },
+    {
+      "id": 124,
+      "text": "Nous ___ (travailler) dans un café.",
+      "answer": "travaillons",
+      "hint": "Встав правильну форму дієслова travailler. \"ми працюємо\": “nous travaillons” [ну травайо̃]\nПереклад речення: Ми працюємо в кафе."
+    },
+    {
+      "id": 125,
+      "text": "Je ___ (aller) au parc après le travail.",
+      "answer": "vais",
+      "hint": "Встав правильну форму дієслова aller. \"я йду\": “je vais” [жьо ве]\nПереклад речення: Я йду в парк після роботи."
+    },
+    {
+      "id": 126,
+      "text": "Tu ___ (aller) à l’école à pied ?",
+      "answer": "vas",
+      "hint": "Встав правильну форму дієслова aller. \"ти йдеш\": “tu vas” [тю ва]\nПереклад речення: Ти йдеш до школи пішки?"
+    },
+    {
+      "id": 127,
+      "text": "Ils ___ (aller) souvent au musée.",
+      "answer": "vont",
+      "hint": "Встав правильну форму дієслова aller. \"вони ходять\": “ils vont” [іль во̃]\nПереклад речення: Вони часто ходять у музей."
+    },
+    {
+      "id": 128,
+      "text": "Nous ___ (aller) au supermarché maintenant.",
+      "answer": "allons",
+      "hint": "Встав правильну форму дієслова aller. \"ми йдемо\": “nous allons” [ну зало̃]\nПереклад речення: Ми йдемо до супермаркету зараз."
+    }
+  ]
+}

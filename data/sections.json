@@ -10,6 +10,11 @@
       "id": "05122025",
       "title": "Leçon du 05.12.2025",
       "file": "data/section_addition_05122025.json"
+    },
+    {
+      "id": "12122025",
+      "title": "Leçon du 12.12.2025",
+      "file": "data/section_addition_12122025.json"
     }
   ]
 }

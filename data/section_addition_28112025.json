@@ -16,757 +16,757 @@
     {
       "id": 3,
       "text": "tu ___ (devenir)",
-      "answer_b64": "deviens",
+      "answer": "deviens",
       "hint": "Встав правильну форму дієслова devenir. \"ти стаєш\": “tu deviens” [тю девьє́н]\nПереклад речення: ти стаєш."
     },
     {
       "id": 4,
       "text": "il ___ (boire)",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 5,
       "text": "je ___ (mettre)",
-      "answer_b64": "mets",
+      "answer": "mets",
       "hint": "Встав правильну форму дієслова mettre. \"я надягаю\": “je mets” [жьо ме́]\nПереклад речення: я надягаю."
     },
     {
       "id": 6,
       "text": "tu ___ (croire)",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"ти віриш\": “tu crois” [тю круа́]\nПереклад речення: ти віриш."
     },
     {
       "id": 7,
       "text": "il ___ (devenir)",
-      "answer_b64": "devient",
+      "answer": "devient",
       "hint": "Встав правильну форму дієслова devenir. \"він стає\": “il devient” [іль девьє́н]\nПереклад речення: він стає."
     },
     {
       "id": 8,
       "text": "je ___ (devenir)",
-      "answer_b64": "deviens",
+      "answer": "deviens",
       "hint": "Встав правильну форму дієслова devenir. \"я стаю\": “je deviens” [жьо девьє́н]\nПереклад речення: я стаю."
     },
     {
       "id": 9,
       "text": "il ___ (mettre)",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 10,
       "text": "il ___ (mettre)",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 11,
       "text": "il ___ (boire)",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 12,
       "text": "ils ___ (croire)",
-      "answer_b64": "croient",
+      "answer": "croient",
       "hint": "Встав правильну форму дієслова croire. \"вони вірять\": “ils croient” [іль круа́]\nПереклад речення: вони вірять."
     },
     {
       "id": 13,
       "text": "vous ___ (mettre)",
-      "answer_b64": "mettez",
+      "answer": "mettez",
       "hint": "Встав правильну форму дієслова mettre. \"ви надягаєте\": “vous mettez” [ву мете́]\nПереклад речення: ви надягаєте."
     },
     {
       "id": 14,
       "text": "il ___ (mettre)",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 15,
       "text": "vous ___ (devenir)",
-      "answer_b64": "devenez",
+      "answer": "devenez",
       "hint": "Встав правильну форму дієслова devenir. \"ви стаєте\": “vous devenez” [ву девьоне́]\nПереклад речення: ви стаєте."
     },
     {
       "id": 16,
       "text": "nous ___ (boire)",
-      "answer_b64": "buvons",
+      "answer": "buvons",
       "hint": "Встав правильну форму дієслова boire. \"ми п’ємо\": “nous buvons” [ну бюво́н]\nПереклад речення: ми п’ємо."
     },
     {
       "id": 17,
       "text": "tu ___ (boire)",
-      "answer_b64": "bois",
+      "answer": "bois",
       "hint": "Встав правильну форму дієслова boire. \"ти п’єш\": “tu bois” [тю буа́]\nПереклад речення: ти п’єш."
     },
     {
       "id": 18,
       "text": "tu ___ (devenir)",
-      "answer_b64": "deviens",
+      "answer": "deviens",
       "hint": "Встав правильну форму дієслова devenir. \"ти стаєш\": “tu deviens” [тю девьє́н]\nПереклад речення: ти стаєш."
     },
     {
       "id": 19,
       "text": "ils ___ (croire)",
-      "answer_b64": "croient",
+      "answer": "croient",
       "hint": "Встав правильну форму дієслова croire. \"вони вірять\": “ils croient” [іль круа́]\nПереклад речення: вони вірять."
     },
     {
       "id": 20,
       "text": "il ___ (devenir)",
-      "answer_b64": "devient",
+      "answer": "devient",
       "hint": "Встав правильну форму дієслова devenir. \"він стає\": “il devient” [іль девьє́н]\nПереклад речення: він стає."
     },
     {
       "id": 21,
       "text": "vous ___ (voir)",
-      "answer_b64": "voyez",
+      "answer": "voyez",
       "hint": "Встав правильну форму дієслова voir. \"ви бачите\": “vous voyez” [ву вуає́]\nПереклад речення: ви бачите."
     },
     {
       "id": 22,
       "text": "il ___ (boire)",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 23,
       "text": "je ___ (devenir)",
-      "answer_b64": "deviens",
+      "answer": "deviens",
       "hint": "Встав правильну форму дієслова devenir. \"я стаю\": “je deviens” [жьо девьє́н]\nПереклад речення: я стаю."
     },
     {
       "id": 24,
       "text": "tu ___ (voir)",
-      "answer_b64": "vois",
+      "answer": "vois",
       "hint": "Встав правильну форму дієслова voir. \"ти бачиш\": “tu vois” [тю вуа́]\nПереклад речення: ти бачиш."
     },
     {
       "id": 25,
       "text": "je ___ (mettre)",
-      "answer_b64": "mets",
+      "answer": "mets",
       "hint": "Встав правильну форму дієслова mettre. \"я надягаю\": “je mets” [жьо ме́]\nПереклад речення: я надягаю."
     },
     {
       "id": 26,
       "text": "ils ___ (croire)",
-      "answer_b64": "croient",
+      "answer": "croient",
       "hint": "Встав правильну форму дієслова croire. \"вони вірять\": “ils croient” [іль круа́]\nПереклад речення: вони вірять."
     },
     {
       "id": 27,
       "text": "tu ___ (mettre)",
-      "answer_b64": "mets",
+      "answer": "mets",
       "hint": "Встав правильну форму дієслова mettre. \"ти надягаєш\": “tu mets” [тю ме́]\nПереклад речення: ти надягаєш."
     },
     {
       "id": 28,
       "text": "nous ___ (devenir)",
-      "answer_b64": "devenons",
+      "answer": "devenons",
       "hint": "Встав правильну форму дієслова devenir. \"ми стаємо\": “nous devenons” [ну девьоно́н]\nПереклад речення: ми стаємо."
     },
     {
       "id": 29,
       "text": "tu ___ (boire)",
-      "answer_b64": "bois",
+      "answer": "bois",
       "hint": "Встав правильну форму дієслова boire. \"ти п’єш\": “tu bois” [тю буа́]\nПереклад речення: ти п’єш."
     },
     {
       "id": 30,
       "text": "ils ___ (voir)",
-      "answer_b64": "voient",
+      "answer": "voient",
       "hint": "Встав правильну форму дієслова voir. \"вони бачать\": “ils voient” [іль вуан]\nПереклад речення: вони бачать."
     },
     {
       "id": 31,
       "text": "tu ___ (croire)",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"ти віриш\": “tu crois” [тю круа́]\nПереклад речення: ти віриш."
     },
     {
       "id": 32,
       "text": "je ___ (croire)",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"я вірю\": “je crois” [жьо круа́]\nПереклад речення: я вірю."
     },
     {
       "id": 33,
       "text": "vous ___ (croire)",
-      "answer_b64": "croyez",
+      "answer": "croyez",
       "hint": "Встав правильну форму дієслова croire. \"ви вірите\": “vous croyez” [ву круайє́]\nПереклад речення: ви вірите."
     },
     {
       "id": 34,
       "text": "je ___ (croire)",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"я вірю\": “je crois” [жьо круа́]\nПереклад речення: я вірю."
     },
     {
       "id": 35,
       "text": "il ___ (croire)",
-      "answer_b64": "croit",
+      "answer": "croit",
       "hint": "Встав правильну форму дієслова croire. \"він вірить\": “il croit” [іль круа́]\nПереклад речення: він вірить."
     },
     {
       "id": 36,
       "text": "je ___ (croire)",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"я вірю\": “je crois” [жьо круа́]\nПереклад речення: я вірю."
     },
     {
       "id": 37,
       "text": "nous ___ (croire)",
-      "answer_b64": "croyons",
+      "answer": "croyons",
       "hint": "Встав правильну форму дієслова croire. \"ми віримо\": “nous croyons” [ну круайо́н]\nПереклад речення: ми віримо."
     },
     {
       "id": 38,
       "text": "ils ___ (mettre)",
-      "answer_b64": "mettent",
+      "answer": "mettent",
       "hint": "Встав правильну форму дієслова mettre. \"вони надягають\": “ils mettent” [іль мет]\nПереклад речення: вони надягають."
     },
     {
       "id": 39,
       "text": "vous ___ (mettre)",
-      "answer_b64": "mettez",
+      "answer": "mettez",
       "hint": "Встав правильну форму дієслова mettre. \"ви надягаєте\": “vous mettez” [ву мете́]\nПереклад речення: ви надягаєте."
     },
     {
       "id": 40,
       "text": "tu ___ (croire)",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"ти віриш\": “tu crois” [тю круа́]\nПереклад речення: ти віриш."
     },
     {
       "id": 41,
       "text": "tu ___ (croire) au café",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"ти віриш\": “tu crois” [тю круа́]\nПереклад речення: ти віриш."
     },
     {
       "id": 42,
       "text": "il ___ (croire) au magasin",
-      "answer_b64": "croit",
+      "answer": "croit",
       "hint": "Встав правильну форму дієслова croire. \"він вірить\": “il croit” [іль круа́]\nПереклад речення: він вірить."
     },
     {
       "id": 43,
       "text": "Marie ___ (boire) en vacances",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 44,
       "text": "il ___ (croire) chez ses amis",
-      "answer_b64": "croit",
+      "answer": "croit",
       "hint": "Встав правильну форму дієслова croire. \"він вірить\": “il croit” [іль круа́]\nПереклад речення: він вірить."
     },
     {
       "id": 45,
       "text": "ils ___ (voir) au café",
-      "answer_b64": "voient",
+      "answer": "voient",
       "hint": "Встав правильну форму дієслова voir. \"вони бачать\": “ils voient” [іль вуан]\nПереклад речення: вони бачать."
     },
     {
       "id": 46,
       "text": "ils ___ (mettre) au magasin",
-      "answer_b64": "mettent",
+      "answer": "mettent",
       "hint": "Встав правильну форму дієслова mettre. \"вони надягають\": “ils mettent” [іль мет]\nПереклад речення: вони надягають."
     },
     {
       "id": 47,
       "text": "Hugo ___ (mettre) à la plage",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 48,
       "text": "Marie ___ (devenir) chez ses amis",
-      "answer_b64": "devient",
+      "answer": "devient",
       "hint": "Встав правильну форму дієслова devenir. \"він стає\": “il devient” [іль девьє́н]\nПереклад речення: він стає."
     },
     {
       "id": 49,
       "text": "Lucas ___ (boire) en vacances",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 50,
       "text": "Sofia ___ (boire) à la plage",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 51,
       "text": "Thomas ___ (mettre) au café",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 52,
       "text": "Sofia ___ (croire) en vacances",
-      "answer_b64": "croit",
+      "answer": "croit",
       "hint": "Встав правильну форму дієслова croire. \"він вірить\": “il croit” [іль круа́]\nПереклад речення: він вірить."
     },
     {
       "id": 53,
       "text": "Hugo ___ (boire) à la plage",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 54,
       "text": "je ___ (voir) au café",
-      "answer_b64": "vois",
+      "answer": "vois",
       "hint": "Встав правильну форму дієслова voir. \"я бачу\": “je vois” [жьо вуа́]\nПереклад речення: я бачу."
     },
     {
       "id": 55,
       "text": "je ___ (croire) au café",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"я вірю\": “je crois” [жьо круа́]\nПереклад речення: я вірю."
     },
     {
       "id": 56,
       "text": "nous ___ (voir) à la plage",
-      "answer_b64": "voyons",
+      "answer": "voyons",
       "hint": "Встав правильну форму дієслова voir. \"ми бачимо\": “nous voyons” [ну вуа́йо̃н]\nПереклад речення: ми бачимо."
     },
     {
       "id": 57,
       "text": "Thomas ___ (mettre) à Paris",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 58,
       "text": "tu ___ (croire) chez ses amis",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"ти віриш\": “tu crois” [тю круа́]\nПереклад речення: ти віриш."
     },
     {
       "id": 59,
       "text": "tu ___ (voir) à la plage",
-      "answer_b64": "vois",
+      "answer": "vois",
       "hint": "Встав правильну форму дієслова voir. \"ти бачиш\": “tu vois” [тю вуа́]\nПереклад речення: ти бачиш."
     },
     {
       "id": 60,
       "text": "il ___ (mettre) à Paris",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 61,
       "text": "tu ___ (boire) en vacances",
-      "answer_b64": "bois",
+      "answer": "bois",
       "hint": "Встав правильну форму дієслова boire. \"ти п’єш\": “tu bois” [тю буа́]\nПереклад речення: ти п’єш."
     },
     {
       "id": 62,
       "text": "Lucas ___ (mettre) à Paris",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 63,
       "text": "nous ___ (boire) à la plage",
-      "answer_b64": "buvons",
+      "answer": "buvons",
       "hint": "Встав правильну форму дієслова boire. \"ми п’ємо\": “nous buvons” [ну бюво́н]\nПереклад речення: ми п’ємо."
     },
     {
       "id": 64,
       "text": "Marie ___ (voir) en vacances",
-      "answer_b64": "voit",
+      "answer": "voit",
       "hint": "Встав правильну форму дієслова voir. \"він бачить\": “il voit” [іль вуа́]\nПереклад речення: він бачить."
     },
     {
       "id": 65,
       "text": "ils ___ (boire) à la plage",
-      "answer_b64": "boivent",
+      "answer": "boivent",
       "hint": "Встав правильну форму дієслова boire. \"вони п’ють\": “ils boivent” [іль буав]\nПереклад речення: вони п’ють."
     },
     {
       "id": 66,
       "text": "vous ___ (devenir) au café",
-      "answer_b64": "devenez",
+      "answer": "devenez",
       "hint": "Встав правильну форму дієслова devenir. \"ви стаєте\": “vous devenez” [ву девьоне́]\nПереклад речення: ви стаєте."
     },
     {
       "id": 67,
       "text": "je ___ (mettre) au magasin",
-      "answer_b64": "mets",
+      "answer": "mets",
       "hint": "Встав правильну форму дієслова mettre. \"я надягаю\": “je mets” [жьо ме́]\nПереклад речення: я надягаю."
     },
     {
       "id": 68,
       "text": "il ___ (mettre) en vacances",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 69,
       "text": "Lucas ___ (croire) à Paris",
-      "answer_b64": "croit",
+      "answer": "croit",
       "hint": "Встав правильну форму дієслова croire. \"він вірить\": “il croit” [іль круа́]\nПереклад речення: він вірить."
     },
     {
       "id": 70,
       "text": "Thomas ___ (croire) chez ses amis",
-      "answer_b64": "croit",
+      "answer": "croit",
       "hint": "Встав правильну форму дієслова croire. \"він вірить\": “il croit” [іль круа́]\nПереклад речення: він вірить."
     },
     {
       "id": 71,
       "text": "Transforme: Je vois. → il ___ (voir)",
-      "answer_b64": "voit",
+      "answer": "voit",
       "hint": "Встав правильну форму дієслова voir. \"він бачить\": “il voit” [іль вуа́]\nПереклад речення: він бачить."
     },
     {
       "id": 72,
       "text": "Transforme: Je vois. → vous ___ (voir)",
-      "answer_b64": "voyez",
+      "answer": "voyez",
       "hint": "Встав правильну форму дієслова voir. \"ви бачите\": “vous voyez” [ву вуає́]\nПереклад речення: ви бачите."
     },
     {
       "id": 73,
       "text": "Transforme: Je bois. → il ___ (boire)",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 74,
       "text": "Transforme: Je mets. → je ___ (mettre)",
-      "answer_b64": "mets",
+      "answer": "mets",
       "hint": "Встав правильну форму дієслова mettre. \"я надягаю\": “je mets” [жьо ме́]\nПереклад речення: я надягаю."
     },
     {
       "id": 75,
       "text": "Transforme: Je crois. → il ___ (croire)",
-      "answer_b64": "croit",
+      "answer": "croit",
       "hint": "Встав правильну форму дієслова croire. \"він вірить\": “il croit” [іль круа́]\nПереклад речення: він вірить."
     },
     {
       "id": 76,
       "text": "Transforme: Je deviens. → il ___ (devenir)",
-      "answer_b64": "devient",
+      "answer": "devient",
       "hint": "Встав правильну форму дієслова devenir. \"він стає\": “il devient” [іль девьє́н]\nПереклад речення: він стає."
     },
     {
       "id": 77,
       "text": "Transforme: Je crois. → ils ___ (croire)",
-      "answer_b64": "croient",
+      "answer": "croient",
       "hint": "Встав правильну форму дієслова croire. \"вони вірять\": “ils croient” [іль круа́]\nПереклад речення: вони вірять."
     },
     {
       "id": 78,
       "text": "Transforme: Je crois. → vous ___ (croire)",
-      "answer_b64": "croyez",
+      "answer": "croyez",
       "hint": "Встав правильну форму дієслова croire. \"ви вірите\": “vous croyez” [ву круайє́]\nПереклад речення: ви вірите."
     },
     {
       "id": 79,
       "text": "Transforme: Je mets. → tu ___ (mettre)",
-      "answer_b64": "mets",
+      "answer": "mets",
       "hint": "Встав правильну форму дієслова mettre. \"ти надягаєш\": “tu mets” [тю ме́]\nПереклад речення: ти надягаєш."
     },
     {
       "id": 80,
       "text": "Transforme: Je mets. → nous ___ (mettre)",
-      "answer_b64": "mettons",
+      "answer": "mettons",
       "hint": "Встав правильну форму дієслова mettre. \"ми надягаємо\": “nous mettons” [ну мето́н]\nПереклад речення: ми надягаємо."
     },
     {
       "id": 81,
       "text": "Transforme: Je crois. → ils ___ (croire)",
-      "answer_b64": "croient",
+      "answer": "croient",
       "hint": "Встав правильну форму дієслова croire. \"вони вірять\": “ils croient” [іль круа́]\nПереклад речення: вони вірять."
     },
     {
       "id": 82,
       "text": "Transforme: Je mets. → il ___ (mettre)",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 83,
       "text": "Transforme: Je bois. → je ___ (boire)",
-      "answer_b64": "bois",
+      "answer": "bois",
       "hint": "Встав правильну форму дієслова boire. \"я п’ю\": “je bois” [жьо буа́]\nПереклад речення: я п’ю."
     },
     {
       "id": 84,
       "text": "Transforme: Je crois. → vous ___ (croire)",
-      "answer_b64": "croyez",
+      "answer": "croyez",
       "hint": "Встав правильну форму дієслова croire. \"ви вірите\": “vous croyez” [ву круайє́]\nПереклад речення: ви вірите."
     },
     {
       "id": 85,
       "text": "Transforme: Je deviens. → tu ___ (devenir)",
-      "answer_b64": "deviens",
+      "answer": "deviens",
       "hint": "Встав правильну форму дієслова devenir. \"ти стаєш\": “tu deviens” [тю девьє́н]\nПереклад речення: ти стаєш."
     },
     {
       "id": 86,
       "text": "Transforme: Je deviens. → vous ___ (devenir)",
-      "answer_b64": "devenez",
+      "answer": "devenez",
       "hint": "Встав правильну форму дієслова devenir. \"ви стаєте\": “vous devenez” [ву девьоне́]\nПереклад речення: ви стаєте."
     },
     {
       "id": 87,
       "text": "Transforme: Je mets. → ils ___ (mettre)",
-      "answer_b64": "mettent",
+      "answer": "mettent",
       "hint": "Встав правильну форму дієслова mettre. \"вони надягають\": “ils mettent” [іль мет]\nПереклад речення: вони надягають."
     },
     {
       "id": 88,
       "text": "Transforme: Je deviens. → ils ___ (devenir)",
-      "answer_b64": "deviennent",
+      "answer": "deviennent",
       "hint": "Встав правильну форму дієслова devenir. \"вони стають\": “ils deviennent” [іль девьє́н]\nПереклад речення: вони стають."
     },
     {
       "id": 89,
       "text": "Transforme: Je vois. → je ___ (voir)",
-      "answer_b64": "vois",
+      "answer": "vois",
       "hint": "Встав правильну форму дієслова voir. \"я бачу\": “je vois” [жьо вуа́]\nПереклад речення: я бачу."
     },
     {
       "id": 90,
       "text": "Transforme: Je deviens. → ils ___ (devenir)",
-      "answer_b64": "deviennent",
+      "answer": "deviennent",
       "hint": "Встав правильну форму дієслова devenir. \"вони стають\": “ils deviennent” [іль девьє́н]\nПереклад речення: вони стають."
     },
     {
       "id": 91,
       "text": "Transforme: Je deviens. → il ___ (devenir)",
-      "answer_b64": "devient",
+      "answer": "devient",
       "hint": "Встав правильну форму дієслова devenir. \"він стає\": “il devient” [іль девьє́н]\nПереклад речення: він стає."
     },
     {
       "id": 92,
       "text": "Transforme: Je mets. → je ___ (mettre)",
-      "answer_b64": "mets",
+      "answer": "mets",
       "hint": "Встав правильну форму дієслова mettre. \"я надягаю\": “je mets” [жьо ме́]\nПереклад речення: я надягаю."
     },
     {
       "id": 93,
       "text": "Transforme: Je deviens. → nous ___ (devenir)",
-      "answer_b64": "devenons",
+      "answer": "devenons",
       "hint": "Встав правильну форму дієслова devenir. \"ми стаємо\": “nous devenons” [ну девьоно́н]\nПереклад речення: ми стаємо."
     },
     {
       "id": 94,
       "text": "Transforme: Je deviens. → vous ___ (devenir)",
-      "answer_b64": "devenez",
+      "answer": "devenez",
       "hint": "Встав правильну форму дієслова devenir. \"ви стаєте\": “vous devenez” [ву девьоне́]\nПереклад речення: ви стаєте."
     },
     {
       "id": 95,
       "text": "Transforme: Je mets. → vous ___ (mettre)",
-      "answer_b64": "mettez",
+      "answer": "mettez",
       "hint": "Встав правильну форму дієслова mettre. \"ви надягаєте\": “vous mettez” [ву мете́]\nПереклад речення: ви надягаєте."
     },
     {
       "id": 96,
       "text": "Transforme: Je crois. → nous ___ (croire)",
-      "answer_b64": "croyons",
+      "answer": "croyons",
       "hint": "Встав правильну форму дієслова croire. \"ми віримо\": “nous croyons” [ну круайо́н]\nПереклад речення: ми віримо."
     },
     {
       "id": 97,
       "text": "Transforme: Je vois. → je ___ (voir)",
-      "answer_b64": "vois",
+      "answer": "vois",
       "hint": "Встав правильну форму дієслова voir. \"я бачу\": “je vois” [жьо вуа́]\nПереклад речення: я бачу."
     },
     {
       "id": 98,
       "text": "Transforme: Je vois. → tu ___ (voir)",
-      "answer_b64": "vois",
+      "answer": "vois",
       "hint": "Встав правильну форму дієслова voir. \"ти бачиш\": “tu vois” [тю вуа́]\nПереклад речення: ти бачиш."
     },
     {
       "id": 99,
       "text": "Transforme: Je crois. → vous ___ (croire)",
-      "answer_b64": "croyez",
+      "answer": "croyez",
       "hint": "Встав правильну форму дієслова croire. \"ви вірите\": “vous croyez” [ву круайє́]\nПереклад речення: ви вірите."
     },
     {
       "id": 100,
       "text": "Transforme: Je deviens. → il ___ (devenir)",
-      "answer_b64": "devient",
+      "answer": "devient",
       "hint": "Встав правильну форму дієслова devenir. \"він стає\": “il devient” [іль девьє́н]\nПереклад речення: він стає."
     },
     {
       "id": 101,
       "text": "Que fais-tu en vacances? → nous ___ (devenir)",
-      "answer_b64": "devenons",
+      "answer": "devenons",
       "hint": "Встав правильну форму дієслова devenir. \"ми стаємо\": “nous devenons” [ну девьоно́н]\nПереклад речення: ми стаємо."
     },
     {
       "id": 102,
       "text": "Qu’est-ce que tu mets en été? → nous ___ (boire)",
-      "answer_b64": "buvons",
+      "answer": "buvons",
       "hint": "Встав правильну форму дієслова boire. \"ми п’ємо\": “nous buvons” [ну бюво́н]\nПереклад речення: ми п’ємо."
     },
     {
       "id": 103,
       "text": "Tu vois quoi à la plage? → tu ___ (boire)",
-      "answer_b64": "bois",
+      "answer": "bois",
       "hint": "Встав правильну форму дієслова boire. \"ти п’єш\": “tu bois” [тю буа́]\nПереклад речення: ти п’єш."
     },
     {
       "id": 104,
       "text": "Tu bois quoi le matin? → il ___ (boire)",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 105,
       "text": "Tu bois quoi le matin? → vous ___ (mettre)",
-      "answer_b64": "mettez",
+      "answer": "mettez",
       "hint": "Встав правильну форму дієслова mettre. \"ви надягаєте\": “vous mettez” [ву мете́]\nПереклад речення: ви надягаєте."
     },
     {
       "id": 106,
       "text": "Tu vois quoi à la plage? → tu ___ (croire)",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"ти віриш\": “tu crois” [тю круа́]\nПереклад речення: ти віриш."
     },
     {
       "id": 107,
       "text": "Que fais-tu en vacances? → je ___ (mettre)",
-      "answer_b64": "mets",
+      "answer": "mets",
       "hint": "Встав правильну форму дієслова mettre. \"я надягаю\": “je mets” [жьо ме́]\nПереклад речення: я надягаю."
     },
     {
       "id": 108,
       "text": "Que fais-tu en vacances? → nous ___ (mettre)",
-      "answer_b64": "mettons",
+      "answer": "mettons",
       "hint": "Встав правильну форму дієслова mettre. \"ми надягаємо\": “nous mettons” [ну мето́н]\nПереклад речення: ми надягаємо."
     },
     {
       "id": 109,
       "text": "Tu vois quoi à la plage? → ils ___ (mettre)",
-      "answer_b64": "mettent",
+      "answer": "mettent",
       "hint": "Встав правильну форму дієслова mettre. \"вони надягають\": “ils mettent” [іль мет]\nПереклад речення: вони надягають."
     },
     {
       "id": 110,
       "text": "Tu bois quoi le matin? → je ___ (voir)",
-      "answer_b64": "vois",
+      "answer": "vois",
       "hint": "Встав правильну форму дієслова voir. \"я бачу\": “je vois” [жьо вуа́]\nПереклад речення: я бачу."
     },
     {
       "id": 111,
       "text": "Qu’est-ce que tu mets en été? → nous ___ (mettre)",
-      "answer_b64": "mettons",
+      "answer": "mettons",
       "hint": "Встав правильну форму дієслова mettre. \"ми надягаємо\": “nous mettons” [ну мето́н]\nПереклад речення: ми надягаємо."
     },
     {
       "id": 112,
       "text": "Qu’est-ce que tu mets en été? → ils ___ (croire)",
-      "answer_b64": "croient",
+      "answer": "croient",
       "hint": "Встав правильну форму дієслова croire. \"вони вірять\": “ils croient” [іль круа́]\nПереклад речення: вони вірять."
     },
     {
       "id": 113,
       "text": "Tu bois quoi le matin? → nous ___ (voir)",
-      "answer_b64": "voyons",
+      "answer": "voyons",
       "hint": "Встав правильну форму дієслова voir. \"ми бачимо\": “nous voyons” [ну вуа́йо̃н]\nПереклад речення: ми бачимо."
     },
     {
       "id": 114,
       "text": "Tu bois quoi le matin? → il ___ (boire)",
-      "answer_b64": "boit",
+      "answer": "boit",
       "hint": "Встав правильну форму дієслова boire. \"він п’є\": “il boit” [іль буа́]\nПереклад речення: він п’є."
     },
     {
       "id": 115,
       "text": "Tu vois quoi à la plage? → je ___ (croire)",
-      "answer_b64": "crois",
+      "answer": "crois",
       "hint": "Встав правильну форму дієслова croire. \"я вірю\": “je crois” [жьо круа́]\nПереклад речення: я вірю."
     },
     {
       "id": 116,
       "text": "Qu’est-ce que tu mets en été? → il ___ (mettre)",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 117,
       "text": "Tu bois quoi le matin? → ils ___ (boire)",
-      "answer_b64": "boivent",
+      "answer": "boivent",
       "hint": "Встав правильну форму дієслова boire. \"вони п’ють\": “ils boivent” [іль буав]\nПереклад речення: вони п’ють."
     },
     {
       "id": 118,
       "text": "Que fais-tu en vacances? → ils ___ (boire)",
-      "answer_b64": "boivent",
+      "answer": "boivent",
       "hint": "Встав правильну форму дієслова boire. \"вони п’ють\": “ils boivent” [іль буав]\nПереклад речення: вони п’ють."
     },
     {
       "id": 119,
       "text": "Tu vois quoi à la plage? → ils ___ (devenir)",
-      "answer_b64": "deviennent",
+      "answer": "deviennent",
       "hint": "Встав правильну форму дієслова devenir. \"вони стають\": “ils deviennent” [іль девьє́н]\nПереклад речення: вони стають."
     },
     {
       "id": 120,
       "text": "Qu’est-ce que tu mets en été? → tu ___ (mettre)",
-      "answer_b64": "mets",
+      "answer": "mets",
       "hint": "Встав правильну форму дієслова mettre. \"ти надягаєш\": “tu mets” [тю ме́]\nПереклад речення: ти надягаєш."
     },
     {
       "id": 121,
       "text": "Qu’est-ce que tu mets en été? → il ___ (mettre)",
-      "answer_b64": "met",
+      "answer": "met",
       "hint": "Встав правильну форму дієслова mettre. \"він надягає\": “il met” [іль ме́]\nПереклад речення: він надягає."
     },
     {
       "id": 122,
       "text": "Que fais-tu en vacances? → tu ___ (devenir)",
-      "answer_b64": "deviens",
+      "answer": "deviens",
       "hint": "Встав правильну форму дієслова devenir. \"ти стаєш\": “tu deviens” [тю девьє́н]\nПереклад речення: ти стаєш."
     },
     {
       "id": 123,
       "text": "Tu bois quoi le matin? → ils ___ (boire)",
-      "answer_b64": "boivent",
+      "answer": "boivent",
       "hint": "Встав правильну форму дієслова boire. \"вони п’ють\": “ils boivent” [іль буав]\nПереклад речення: вони п’ють."
     },
     {
       "id": 124,
       "text": "Tu bois quoi le matin? → ils ___ (mettre)",
-      "answer_b64": "mettent",
+      "answer": "mettent",
       "hint": "Встав правильну форму дієслова mettre. \"вони надягають\": “ils mettent” [іль мет]\nПереклад речення: вони надягають."
     },
     {
       "id": 125,
       "text": "Tu bois quoi le matin? → ils ___ (mettre)",
-      "answer_b64": "mettent",
+      "answer": "mettent",
       "hint": "Встав правильну форму дієслова mettre. \"вони надягають\": “ils mettent” [іль мет]\nПереклад речення: вони надягають."
     },
     {
       "id": 126,
       "text": "Que fais-tu en vacances? → vous ___ (croire)",
-      "answer_b64": "croyez",
+      "answer": "croyez",
       "hint": "Встав правильну форму дієслова croire. \"ви вірите\": “vous croyez” [ву круайє́]\nПереклад речення: ви вірите."
     },
     {
       "id": 127,
       "text": "Que fais-tu en vacances? → vous ___ (boire)",
-      "answer_b64": "buvez",
+      "answer": "buvez",
       "hint": "Встав правильну форму дієслова boire. \"ви п’єте\": “vous buvez” [ву бюве́]\nПереклад речення: ви п’єте."
     },
     {
       "id": 128,
       "text": "Tu bois quoi le matin? → nous ___ (croire)",
-      "answer_b64": "croyons",
+      "answer": "croyons",
       "hint": "Встав правильну форму дієслова croire. \"ми віримо\": “nous croyons” [ну круайо́н]\nПереклад речення: ми віримо."
     }
   ]

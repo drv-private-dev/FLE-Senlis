@@ -1,0 +1,6 @@
+{
+  "sections": [
+    { "id": "Lilian", "title": "Le cours de Lilian", "subtitle": "", "path": "./courses/Lilian/index.html" },
+    { "id": "Charlotte", "title": "Le cours de Charlotte", "subtitle": "", "path": "./courses/Charlotte/index.html" }
+  ]
+}

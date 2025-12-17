@@ -24,6 +24,15 @@
           pointer-events: none;
           z-index: 5;
           min-width: 24px;
-          /* Ensure badge has minimum width */
           text-align: center;
       }
+
+      .btn-home {
+          display: inline-block;
+          padding: 0.5rem 1rem;
+          text-decoration: none;
+          border-radius: 0.25rem;
+          font-weight: bold;
+          transition: background-color .2s ease;
+      }
+

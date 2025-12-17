@@ -1,5 +1,4 @@
 const COURSE_TITLE = "Grammaire progressive du Français";
-const APP_VERSION = "1.0.007"; // Updated version
 
 async function loadJSON(url) {
   const res = await fetch(url);
@@ -215,7 +214,6 @@ document.addEventListener("DOMContentLoaded", async () => {
       if (btn) loadJSON(btn.dataset.file).then(showQuiz);
     };
 
-    document.getElementById("appVersion").textContent = "v" + APP_VERSION;
   } catch (err) {
     alert("Помилка під час завантаження списку розділів: " + err.message);
   }

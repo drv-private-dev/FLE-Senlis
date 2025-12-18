@@ -1,0 +1,38 @@
+      .logo {
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+      }
+
+      .logo svg {
+          width: 48px;
+          height: 48px;
+      }
+
+      .section-card {
+          cursor: pointer;
+      }
+
+      .hidden {
+          display: none !important;
+      }
+
+      .answer-badge {
+          right: 10px;
+          top: 50%;
+          transform: translateY(-50%);
+          pointer-events: none;
+          z-index: 5;
+          min-width: 24px;
+          text-align: center;
+      }
+
+      .btn-home {
+          display: inline-block;
+          padding: 0.5rem 1rem;
+          text-decoration: none;
+          border-radius: 0.25rem;
+          font-weight: bold;
+          transition: background-color .2s ease;
+      }
+

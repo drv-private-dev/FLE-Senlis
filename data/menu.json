@@ -1,6 +1,7 @@
 {
   "sections": [
-    { "id": "Lilian", "title": "Le cours de Lilian", "subtitle": "", "path": "./courses/Lilian/index.html" },
-    { "id": "Charlotte", "title": "Le cours de Charlotte", "subtitle": "", "path": "./courses/Charlotte/index.html" }
+    { "id": "Sylvie", "title": "Le cours de Sylvie", "subtitle": "Tous les mercredis", "path": "./courses/Sylvie/index.html" },
+    { "id": "Lilian", "title": "Le cours de Lilian ", "subtitle": "Tous les vendredis", "path": "./courses/Lilian/index.html" },
+    { "id": "Charlotte", "title": "Le cours de Charlotte", "subtitle": "Tous les samedis", "path": "./courses/Charlotte/index.html" }
   ]
 }

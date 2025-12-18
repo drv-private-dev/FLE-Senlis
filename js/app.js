@@ -51,6 +51,24 @@ function autoScaleTitles() {
   });
 }
 
+function autoScaleSubTitles() {
+  document.querySelectorAll(".menu-tile .tile-subtitle").forEach((subtitle) => {
+    const len = subtitle.textContent.trim().length;
+
+    if (len >= 100) {
+      subtitle.style.fontSize = "0.50rem";
+    } else if (len >= 80) {
+      subtitle.style.fontSize = "0.60rem";
+    } else if (len >= 65) {
+      subtitle.style.fontSize = "0.75rem";
+    } else if (len >= 50) {
+      subtitle.style.fontSize = "0.85rem";
+    } else {
+      subtitle.style.fontSize = "1rem";
+    }
+  });
+}
+
 /* ---- load menu.json ---- */
 if (menuGrid) {
   fetch("data/menu.json")
@@ -79,6 +97,7 @@ if (menuGrid) {
       });
 
       autoScaleTitles();
+      autoScaleSubTitles();
     })
     .catch((err) => {
       console.error("Failed to load menu.json", err);

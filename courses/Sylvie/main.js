@@ -1,4 +1,4 @@
-const COURSE_TITLE = "Pratique de conversation française";
+const COURSE_TITLE = "Français Langue Étrangère";
 
 async function loadJSON(url) {
   const res = await fetch(url);
